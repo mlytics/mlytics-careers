@@ -94,6 +94,10 @@ The features you build in your first 90 days will be in the investor deck. The d
 
 ---
 
+**Want to see how we actually build this?** → [How we ship: Becoming Product Builders with Business Thinking](../how-we-ship.md)
+
+---
+
 ## How to apply
 
 Send us something that shows how you think — a side project, a technical write-up, a PR you're proud of, or just a message explaining why this role caught your attention. We care about what you've built more than where you've worked.

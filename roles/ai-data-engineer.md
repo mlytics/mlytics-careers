@@ -119,6 +119,10 @@ Right now, a brand prospect asks "how is this different from contextual advertis
 
 ---
 
+**Want to see how we actually build this?** → [How we ship: Becoming Product Builders with Business Thinking](../how-we-ship.md)
+
+---
+
 ## How to apply
 
 Send us something that shows how you think about data systems — a pipeline you've built, an architecture decision you made and why, a scoring model you operationalized. We care about what you've shipped more than what tools you've used.
