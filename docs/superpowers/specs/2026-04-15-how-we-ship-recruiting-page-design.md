@@ -44,7 +44,7 @@ Five file changes total:
 | § | Title | Words | Purpose |
 |---|---|---|---|
 | 1 | Two single-day ships in nine days | 450 | Make the tempo felt via two concrete stories |
-| 2 | Why this is the default — and why it isn't everywhere yet | 450 | The 34% number + brownfield honesty |
+| 2 | Why this is the default — and why it isn't everywhere yet | 450 | The 647/2,330 ratio + brownfield honesty |
 | 3 | How Claude Code became our default in three weeks | 550 | Causal explanation, sourced from internal Feb 2026 guide |
 | 4 | The data backbone | 320 | Credibility evidence for AI Data Engineer JD |
 | 5 | Small teams, real ownership (the uncomfortable truth) | 250 | Reframe team size + filter for fit |
@@ -78,11 +78,11 @@ Five file changes total:
 
 ### 4.2 § 2 — "Why this is the default — and why it isn't everywhere yet" (~450 words)
 
-**Purpose:** Prove the single-day ships aren't cherry-picked, via the 34% Claude-co-authored number, while being honest about brownfield lag.
+**Purpose:** Prove the single-day ships aren't cherry-picked, via the 647/2,330 Claude-co-authored ratio, while being honest about brownfield lag.
 
 **§ 2.a — headline (~80 words):**
 
-Lead with the number. "647 of our last 2,330 commits across our three newest production codebases list Claude as a co-author. **One in three of our shipped commits was AI-paired** — not in a pilot, not in one team's experiment, across all contributors, as the default."
+Lead with the number. "647 of our last 2,330 commits across our three newest production codebases list Claude as a co-author — **just over a quarter of everything we shipped**. Not in a pilot, not in one team's experiment. Across all contributors, as the default."
 
 **§ 2.b — per-repo breakdown with explanation (~150 words):**
 
@@ -96,11 +96,11 @@ The percentages differ *and that is itself the interesting finding*: `aigc-mvp` 
 
 **§ 2.c — brownfield honesty (~140 words):**
 
-"But these are our three newest systems. Our older products — the multi-CDN decision engine that's been routing 50M+ MAU since before Claude Code existed, legacy internal dashboards, billing integrations dating back to the original SaaS — are still being migrated. The 34% isn't our ceiling. It's our leading edge. If you join us now, part of your job is bringing the remaining 66% and the brownfield along with it. We're transforming a profitable, scaled company into an AI-first one. That's harder than building one from scratch, and more interesting."
+"But these are our three newest systems. Our older products — the multi-CDN decision engine that's been routing 50M+ MAU since before Claude Code existed, legacy internal dashboards, billing integrations dating back to the original SaaS — are still being migrated. Just over a quarter isn't our ceiling. It's our leading edge. If you join us now, part of your job is bringing the remaining three-quarters and the brownfield along with it. We're transforming a profitable, scaled company into an AI-first one. That's harder than building one from scratch, and more interesting."
 
 **§ 2.d — meta-honesty (~80 words):**
 
-"The 34% is a measurement, not a goal. We didn't optimize for it. If it drops next quarter because the tooling changed, we'll write that up too."
+"That share is a measurement, not a goal. We didn't optimize for it. If it drops next quarter because the tooling changed, we'll write that up too."
 
 ---
 
@@ -404,7 +404,7 @@ Keeping the two commits separate lets the spec+config change land independently,
 
 | Risk | Mitigation |
 |---|---|
-| Numbers drift as new commits land (34%, 1,726, 414, etc.). | Page footer dates the snapshot: "gathered on 2026-04-15". |
+| Numbers drift as new commits land (1,726, 414, 647/2,330, etc.). | Page footer dates the snapshot: "gathered on 2026-04-15". |
 | Quoting an internal team document publicly. | Okis explicitly approved on 2026-04-15: "要" in response to the question "要不要大量 quote PDF 的原文". |
 | Mentioning "legacy CDN decision engine" publicly could be read as disparaging the company's core profitable product. | Okis explicitly authorized the transparency on 2026-04-15: "可以公開，我想坦白". |
 | The hypothetical "2,500x efficiency" figure is preserved on `README.md` despite having no code-derived backing. | Okis explicitly authorized preservation on 2026-04-15: "先保留吧，這是假設性數字". Any future reader asking about it can be told it's a designed comparison figure, not a measurement. |

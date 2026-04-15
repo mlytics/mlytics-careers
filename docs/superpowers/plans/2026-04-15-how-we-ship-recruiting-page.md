@@ -264,7 +264,7 @@ Read the section once. For every specific number (6 hours, 1,680 lines, 30 files
 
 *§ 2.a headline (~80 words):*
 - Core number: **"647 of our last 2,330 commits across our three newest production codebases list Claude as a co-author."**
-- Implication phrase: **"One in three of our shipped commits was AI-paired"** — measured across all contributors, not a pilot program.
+- Implication phrase: **"just over a quarter of everything we shipped is AI-paired"** — measured across all contributors, not a pilot program. The ratio is the weighted-average aggregate of 647/2,330 ≈ 27.8%, phrased as "just over a quarter" to stay arithmetically honest and reader-verifiable.
 
 *§ 2.b per-repo breakdown (~150 words):*
 Table-like bullet list (or prose with numbers, writer's choice):
@@ -279,12 +279,12 @@ Explanation paragraph (required): the percentages differ *and that is itself the
 Include all of the following ideas (the exact wording can be refined):
 - These percentages are from our three newest systems
 - Older products still in migration: **the multi-CDN decision engine that's been routing 50M+ MAU since before Claude Code existed**, legacy internal dashboards, billing integrations dating back to the original SaaS
-- Explicit framing: **"The 34% isn't our ceiling. It's our leading edge."**
-- Invitation: "If you join us now, part of your job is bringing the remaining 66% and the brownfield along with it."
+- Explicit framing: **"Just over a quarter isn't our ceiling. It's our leading edge."**
+- Invitation: "If you join us now, part of your job is bringing the remaining three-quarters and the brownfield along with it."
 - Closing beat: **"We're transforming a profitable, scaled company into an AI-first one. That's harder than building one from scratch, and more interesting."**
 
 *§ 2.d meta-honesty (~80 words):*
-- The 34% is a measurement, not a goal
+- That share is a measurement, not a goal
 - We didn't optimize for it
 - "If it drops next quarter because the tooling changed, we'll write that up too."
 
@@ -308,7 +308,7 @@ Expected: zero output.
 
 Run:
 ```bash
-awk '/^## Why this is the default/{flag=1; next} /^## /{flag=0} flag' how-we-ship.md | grep -oE '647|2,?330|414|1,?726|135|298|98|306|91|34%|24%|45%|32%'
+awk '/^## Why this is the default/{flag=1; next} /^## /{flag=0} flag' how-we-ship.md | grep -oE '647|2,?330|414|1,?726|135|298|98|306|91|24%|45%|32%'
 ```
 
 Expected: every listed number should appear at least once (with or without the comma separator for 2,330 and 1,726). If any number is missing, you dropped a fact — add it back.
