@@ -40,8 +40,8 @@ Mlytics 從 multi-CDN 起家。那套基礎設施 — <50ms 路由、multi-vendo
 
 | 職位 | 地點 | 團隊 |
 |------|------|------|
-| [AI-Powered Full Stack Engineer](./roles/ai-powered-full-stack-engineer.md) | 新加坡 / 台北 | Product |
-| [AI Data Engineer](./roles/ai-data-engineer.md) | 新加坡 / 台北 | Data & Innovation |
+| [AI-Powered Full Stack Engineer](../roles/ai-powered-full-stack-engineer.md) | 新加坡 / 台北 | Product |
+| [AI Data Engineer](../roles/ai-data-engineer.md) | 新加坡 / 台北 | Data & Innovation |
 
 ---
 
