@@ -7,19 +7,13 @@
 
 ---
 
-## The intent refinery
+## Mlytics in 30 seconds
 
-We built an engine that makes real-time routing decisions across the world's content delivery infrastructure — 50 million monthly active users, every day. That engine is profitable, proven at scale, and gave us something most startups never get: real production traffic and the time to figure out what to build next.
+Mlytics is an AI Answer Engine. We help media publishers turn reader intent into commercial outcomes — replacing fading CPM revenue with high-quality CPL revenue. Our Intent Refinery is live with 15+ of Taiwan's top media properties, serving 4M+ weekly active users.
 
-We figured it out. **The engine doesn't change. The packet does.**
+We started as a multi-CDN company. That infrastructure — <50ms routing, multi-vendor failover — is now the substrate underneath.
 
-Our CDN Decision Engine used to route content delivery packets. Now we're routing something far more valuable: **user intent.** When someone reads a financial article and asks "should I invest in TSMC right now?" — that question carries a purchase intent signal worth 100x more than a pageview impression. We capture that signal in real time, classify it, score it, and match it to brands willing to pay for it.
-
-We call this **The Intent Refinery** — raw attention goes in, commercially actionable intent comes out. Today we have **4.7 million weekly active users** generating intent signals across **58 live publisher integrations** in finance, lifestyle, and sports. Our clickstream SDK is already capturing behavioral events — scroll depth, active reading time, Q&A interactions, cross-page navigation — and landing them in S3.
-
-**Here's the problem: the raw data is flowing, but the refinery isn't built yet.**
-
-The gap between "events in a bucket" and "a brand paying $1.50 CPC for a verified high-intent user" is a data pipeline, a scoring model, and a matching engine. That gap is your job.
+[More about Mlytics →](../README.md)
 
 ---
 

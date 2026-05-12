@@ -7,26 +7,13 @@
 
 ---
 
-## The intent refinery
+## Mlytics in 30 seconds
 
-We built an engine that makes real-time routing decisions across the world's content delivery infrastructure — 50 million monthly active users, every day. That engine is profitable, proven at scale, and gave us something most startups never get: real production traffic and the time to figure out what to build next.
+Mlytics is an AI Answer Engine. We help media publishers turn reader intent into commercial outcomes — replacing fading CPM revenue with high-quality CPL revenue. Our Intent Refinery is live with 15+ of Taiwan's top media properties, serving 4M+ weekly active users.
 
-We figured it out. **The engine doesn't change. The packet does.**
+We started as a multi-CDN company. That infrastructure — <50ms routing, multi-vendor failover — is now the substrate underneath.
 
-Our CDN Decision Engine used to route content delivery packets. Now we're routing something far more valuable: **user intent.** When someone reads a financial article and asks "should I invest in TSMC right now?" — that question carries a purchase intent signal worth 100x more than a pageview impression. We capture that signal in real time, classify it, score it, and match it to brands willing to pay for it.
-
-We call this **The Intent Refinery** — raw attention goes in, commercially actionable intent comes out. Four layers, each independently monetizable:
-
-→ **Decisive Engine** — routing & observability ($1K/mo)
-→ **AI Q&A Widget** — turns every article into an intent capture point ($5K/mo)
-→ **Full Conversation** — captures strong intent through multi-turn dialog (CPL pricing)
-→ **Lead Pilot** — filters and converts (performance pricing)
-
-This isn't a slide deck. We have **4.7 million weekly active users** on the platform, **58 live publisher integrations** across finance, lifestyle, and sports verticals, and a clickstream SDK capturing behavioral signals at scale. One AI-generated article costs $0.10 vs. $250 for a human writer — a 2,500x efficiency gain. And we recently produced a 50-second animated short from a 475-line meeting transcript using 46 AI API calls in 45 minutes — a pipeline that would traditionally require six specialists and three weeks.
-
-**The moat isn't any single AI model — everyone can access those. The moat is who can chain the entire pipeline end-to-end, on top of a real-time intent data flywheel.**
-
-We're hiring the engineers who will build that chain.
+[More about Mlytics →](../README.md)
 
 ---
 
