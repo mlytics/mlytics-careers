@@ -123,16 +123,16 @@ Questions? → [Candidate FAQ](./faq.md)
 
 ## 5. faq.md
 
-Six questions, sourced from talent narrative Section 5. Written in English for international candidates.
+Four questions, sourced from talent narrative Section 5. Written in English for international candidates.
 
 1. **What does Mlytics actually do, in one sentence?**
 2. **LinkedIn still says multi-CDN — is that outdated?**
 3. **You've pivoted once. Will you pivot again?**
-4. **Can 20-30 people really pull this off?**
-5. **How are you different from Cloudflare / Perplexity / TheTradeDesk?**
-6. **Are you open to remote work?**
+4. **Are you open to remote work?**
 
 Removed from talent narrative's FAQ:
+- "Can 20-30 people really pull this off?" (draws unnecessary attention to team size as a concern)
+- Competitive comparison with Cloudflare / Perplexity / TheTradeDesk (risk of inaccuracy; better suited for recruiter calls)
 - Funding status (needs Finance alignment before publishing)
 - "Can I talk to current employees?" (process detail, better in email)
 - "How do I explain Mlytics to friends/family?" (internal training, not public page)
