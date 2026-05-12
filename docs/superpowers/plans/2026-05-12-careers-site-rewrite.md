@@ -148,7 +148,7 @@ No — but this is worth unpacking. Going from multi-CDN to AI Answer Engine was
 
 ### Are you open to remote work?
 
-The core team is based in Taipei, but engineering and PM roles have flexibility for remote collaboration. Specifics depend on the role. Customer-facing roles (Sales, Customer Success) prefer Taipei or Taiwan-based candidates for face time with clients.
+Our product and engineering teams are primarily based in Taiwan and collaborate closely in-person, but remote arrangements are possible — we're open to discussing what works. Go-to-market roles (Sales, Partnerships, Customer Success) depend on the market we're hiring for; specifics are best discussed during the interview process.
 
 ---
 
@@ -375,7 +375,7 @@ Mlytics 是 AI Answer Engine。媒體有流量但變現越來越難、品牌有�
 
 ### 你們接受遠端工作嗎？
 
-核心團隊以台北為主，但工程跟 PM 都有遠端配合的彈性，具體要看 role。Sales / Customer Success 角色因為需要跟客戶 face time，台北或台灣 preferred。
+Product 跟 Engineering 團隊主要在台灣、密切協作，但 remote 是可以談的 — 我們願意討論適合的方式。GTM 相關的角色（Sales、Partnerships、Customer Success）取決於市場需求，具體狀況建議在面試過程中洽談。
 
 ---
 
