@@ -1,6 +1,6 @@
 <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px">
-<a href="../README.md">← 返回所有職缺</a>
-<a href="../../roles/people-operations-specialist.md">English</a>
+<a href="/zh-TW/">← 返回所有職缺</a>
+<a href="/roles/people-operations-specialist.html">English</a>
 </div>
 
 # People Operations Specialist 人力資源專員

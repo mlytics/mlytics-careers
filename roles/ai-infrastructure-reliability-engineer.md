@@ -1,6 +1,6 @@
 <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px">
-<a href="../README.md">← Back to all positions</a>
-<a href="../zh-TW/roles/ai-infrastructure-reliability-engineer.md">繁體中文版</a>
+<a href="/">← Back to all positions</a>
+<a href="/zh-TW/roles/ai-infrastructure-reliability-engineer.html">繁體中文版</a>
 </div>
 
 # AI Infrastructure & Reliability Engineer (Staff / Lead)

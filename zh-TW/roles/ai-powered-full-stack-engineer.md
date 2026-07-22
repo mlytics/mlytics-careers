@@ -1,6 +1,6 @@
 <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px">
-<a href="../README.md">← 返回所有職缺</a>
-<a href="../../roles/ai-powered-full-stack-engineer.md">English</a>
+<a href="/zh-TW/">← 返回所有職缺</a>
+<a href="/roles/ai-powered-full-stack-engineer.html">English</a>
 </div>
 
 # Lead AI-Native Full Stack Engineer

@@ -1,6 +1,6 @@
 <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px">
-<a href="../README.md">← Back to all positions</a>
-<a href="../zh-TW/roles/senior-ai-product-manager.md">繁體中文版</a>
+<a href="/">← Back to all positions</a>
+<a href="/zh-TW/roles/senior-ai-product-manager.html">繁體中文版</a>
 </div>
 
 # Senior AI Product Manager, Cortex
