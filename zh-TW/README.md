@@ -38,10 +38,22 @@ Mlytics 從 multi-CDN 起家。那套基礎設施 — <50ms 路由、multi-vendo
 
 ## 開放職缺
 
-| 職位 | 地點 | 團隊 |
-|------|------|------|
-| [AI-Powered Full Stack Engineer](../roles/ai-powered-full-stack-engineer.md) | 新加坡 / 台北 | Product |
-| [AI Data Engineer](../roles/ai-data-engineer.md) | 新加坡 / 台北 | Data & Innovation |
+所有職缺皆位於**台北**。
+
+### 產品 Product
+
+- **[Lead AI-Native Full Stack Engineer](./roles/ai-powered-full-stack-engineer.md)**
+- **[AI Data Engineer](./roles/ai-data-engineer.md)**
+- **[AI Infrastructure & Reliability Engineer (Staff / Lead)](./roles/ai-infrastructure-reliability-engineer.md)**
+- **[Senior AI Product Manager, Cortex](./roles/senior-ai-product-manager.md)**
+
+### 人力營運 People Operations
+
+- **[People Operations Specialist](./roles/people-operations-specialist.md)**
+
+### 財務 Finance
+
+- **[Senior Accountant](./roles/senior-accountant.md)**
 
 ---
 
@@ -57,7 +69,7 @@ Mlytics 從 multi-CDN 起家。那套基礎設施 — <50ms 路由、multi-vendo
 
 寄給我們任何能展現你思考方式的東西 — side project、技術文章、你引以為傲的 PR、或一段訊息解釋為什麼這個機會引起你的注意。
 
-📧 **[careers@mlytics.com](mailto:careers@mlytics.com)**
+📧 **[career@mlytics.com](mailto:career@mlytics.com)**
 
 我們在意的是你做過什麼，不是你待過哪裡。
 

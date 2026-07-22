@@ -38,10 +38,22 @@ We started as a multi-CDN company. That infrastructure — <50ms routing, multi-
 
 ## Open Positions
 
-| Role | Location | Team |
-|------|----------|------|
-| [AI-Powered Full Stack Engineer](./roles/ai-powered-full-stack-engineer.md) | Singapore / Taipei | Product |
-| [AI Data Engineer](./roles/ai-data-engineer.md) | Singapore / Taipei | Data & Innovation |
+All roles are based in **Taipei**.
+
+### Product
+
+- **[Lead AI-Native Full Stack Engineer](./roles/ai-powered-full-stack-engineer.md)**
+- **[AI Data Engineer](./roles/ai-data-engineer.md)**
+- **[AI Infrastructure & Reliability Engineer (Staff / Lead)](./roles/ai-infrastructure-reliability-engineer.md)**
+- **[Senior AI Product Manager, Cortex](./roles/senior-ai-product-manager.md)**
+
+### People Operations
+
+- **[People Operations Specialist](./roles/people-operations-specialist.md)**
+
+### Finance
+
+- **[Senior Accountant](./roles/senior-accountant.md)**
 
 ---
 
@@ -57,7 +69,7 @@ In early April 2026, a team of four shipped a full AI video news pipeline in six
 
 Send us something that shows how you think — a side project, a technical write-up, a PR you're proud of, or a message explaining why this caught your attention.
 
-📧 **[careers@mlytics.com](mailto:careers@mlytics.com)**
+📧 **[career@mlytics.com](mailto:career@mlytics.com)**
 
 We care about what you've built more than where you've worked.
 

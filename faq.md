@@ -28,4 +28,4 @@ Our product and engineering teams are primarily based in Taiwan and collaborate 
 
 ---
 
-📧 **[careers@mlytics.com](mailto:careers@mlytics.com)** · [← Back to careers home](./README.md)
+📧 **[career@mlytics.com](mailto:career@mlytics.com)** · [← Back to careers home](./README.md)

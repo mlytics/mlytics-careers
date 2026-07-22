@@ -1,11 +1,9 @@
-[← Back to all positions](../README.md)
+<div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px">
+<a href="../README.md">← Back to all positions</a>
+<a href="../zh-TW/roles/ai-powered-full-stack-engineer.md">繁體中文版</a>
+</div>
 
-# AI-Powered Full Stack Engineer
-
-**Location:** Singapore (PR+) / Taipei, Taiwan
-**Work style:** Singapore / Malaysia (Remote) / Taiwan (Hybrid)
-
----
+# Lead AI-Native Full Stack Engineer
 
 ## Mlytics in 30 seconds
 
@@ -89,4 +87,4 @@ The features you build in your first 90 days will be in the investor deck. The d
 
 Send us something that shows how you think — a side project, a technical write-up, a PR you're proud of, or just a message explaining why this role caught your attention. We care about what you've built more than where you've worked.
 
-📧 **[careers@mlytics.com](mailto:careers@mlytics.com)**
+📧 **[career@mlytics.com](mailto:career@mlytics.com)**

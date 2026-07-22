@@ -106,7 +106,7 @@ Not a resume. Something that shows how you think.
 
 A side project you've shipped. A pull request you're proud of. A technical write-up that taught you something. A message explaining why any of this caught your attention and what you'd try to build if you got here. Prototypes you abandoned count. So does code you wish you'd written differently — we're more curious about how you think than about polish. Whatever you send, expect us to ask about one decision you could have made differently.
 
-**Email: [careers@mlytics.com](mailto:careers@mlytics.com)**
+**Email: [career@mlytics.com](mailto:career@mlytics.com)**
 
 Two roles we're currently hiring for:
 

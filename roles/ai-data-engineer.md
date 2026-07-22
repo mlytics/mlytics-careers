@@ -1,11 +1,9 @@
-[← Back to all positions](../README.md)
+<div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px">
+<a href="../README.md">← Back to all positions</a>
+<a href="../zh-TW/roles/ai-data-engineer.md">繁體中文版</a>
+</div>
 
 # AI Data Engineer
-
-**Location:** Singapore (PR+) / Taipei, Taiwan
-**Work style:** Singapore / Malaysia (Remote) / Taiwan (Hybrid)
-
----
 
 ## Mlytics in 30 seconds
 
@@ -121,4 +119,4 @@ Right now, a brand prospect asks "how is this different from contextual advertis
 
 Send us something that shows how you think about data systems — a pipeline you've built, an architecture decision you made and why, a scoring model you operationalized. We care about what you've shipped more than what tools you've used.
 
-📧 **[careers@mlytics.com](mailto:careers@mlytics.com)**
+📧 **[career@mlytics.com](mailto:career@mlytics.com)**

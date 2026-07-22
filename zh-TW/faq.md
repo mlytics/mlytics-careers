@@ -28,4 +28,4 @@ Product 跟 Engineering 團隊主要在台灣、密切協作，但 remote 是可
 
 ---
 
-📧 **[careers@mlytics.com](mailto:careers@mlytics.com)** · [← 回到職缺首頁](./README.md)
+📧 **[career@mlytics.com](mailto:career@mlytics.com)** · [← 回到職缺首頁](./README.md)
