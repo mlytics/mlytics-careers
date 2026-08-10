@@ -51,10 +51,6 @@ Mlytics 從 multi-CDN 起家。那套基礎設施 — <50ms 路由、multi-vendo
 
 - **[People Operations Specialist](./roles/people-operations-specialist.md)**
 
-### 財務 Finance
-
-- **[Senior Accountant](./roles/senior-accountant.md)**
-
 ---
 
 ## 我們怎麼做事

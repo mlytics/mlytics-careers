@@ -108,10 +108,12 @@ A side project you've shipped. A pull request you're proud of. A technical write
 
 **Email: [career@mlytics.com](mailto:career@mlytics.com)**
 
-Two roles we're currently hiring for:
+Roles we're currently hiring for:
 
-- [AI-Powered Full Stack Engineer](./roles/ai-powered-full-stack-engineer.md) — Product team, Singapore / Taipei
-- [AI Data Engineer](./roles/ai-data-engineer.md) — Data & Innovation team, Singapore / Taipei
+- [Lead AI-Native Full Stack Engineer](./roles/ai-powered-full-stack-engineer.md) — Product team, Taipei
+- [AI Data Engineer](./roles/ai-data-engineer.md) — Data & Innovation team, Taipei
+- [AI Infrastructure & Reliability Engineer (Staff / Lead)](./roles/ai-infrastructure-reliability-engineer.md) — Product team, Taipei
+- [Senior AI Product Manager, Cortex](./roles/senior-ai-product-manager.md) — Product team, Taipei
 
 We read what you send within a week. If we don't think there's a fit, we'll tell you why — not a form letter.
 

@@ -51,10 +51,6 @@ All roles are based in **Taipei**.
 
 - **[People Operations Specialist](./roles/people-operations-specialist.md)**
 
-### Finance
-
-- **[Senior Accountant](./roles/senior-accountant.md)**
-
 ---
 
 ## How we ship
