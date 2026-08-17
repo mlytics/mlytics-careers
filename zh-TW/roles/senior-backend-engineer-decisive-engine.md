@@ -7,9 +7,9 @@
 
 ## 30 秒認識 Mlytics
 
-Mlytics 是一套 AI Answer Engine。我們幫媒體與出版業者把讀者意圖轉化為商業成果——用高品質的 CPL 收入，取代持續下滑的 CPM 收入。我們的 Intent Refinery 已在 15+ 家台灣頭部媒體上線，服務 4M+ 週活躍使用者。
+Mlytics 為媒體與內容平台打造基礎設施與 AI 產品。我們從 multi-CDN 流量調度起家，背後的即時決策系統目前承載 PB 級流量，提供 <50ms routing 與 multi-vendor failover。
 
-我們從 multi-CDN 起家。那套基礎設施——<50ms 路由、multi-vendor failover——現在是整個產品的技術底層。
+現在，我們正把這套基礎延伸到 AI 驅動的內容與決策產品。工程問題很具體：讓即時決策保持快速且正確、可靠搬運高流量資料、透過清楚的介面開放能力，並讓基礎設施在成本上可以持續。
 
 [更認識 Mlytics →](../README.md)
 

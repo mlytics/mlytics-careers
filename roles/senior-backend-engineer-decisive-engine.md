@@ -7,9 +7,9 @@
 
 ## Mlytics in 30 seconds
 
-Mlytics is an AI Answer Engine. We help media publishers turn reader intent into commercial outcomes — replacing fading CPM revenue with high-quality CPL revenue. Our Intent Refinery is live with 15+ of Taiwan's top media properties, serving 4M+ weekly active users.
+Mlytics builds infrastructure and AI products for media and content platforms. We started with multi-CDN traffic orchestration, and the real-time decision systems behind it now handle PB-scale traffic with <50ms routing and multi-vendor failover.
 
-We started as a multi-CDN company. That infrastructure — <50ms routing, multi-vendor failover — is now the substrate underneath.
+Today, we are extending that foundation into AI-powered content and decision products. The engineering problems are concrete: keep real-time decisions fast and correct, move high-volume data reliably, expose capabilities through clean interfaces, and make the infrastructure economically sustainable.
 
 [More about Mlytics →](../README.md)
 
