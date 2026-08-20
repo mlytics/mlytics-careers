@@ -3,7 +3,7 @@
 <a href="/zh-TW/roles/senior-backend-engineer-decisive-engine.html">繁體中文版</a>
 </div>
 
-# Senior Backend Engineer — Decisive Engine
+# Senior Backend Engineer, Decisive Engine
 
 ## Mlytics in 30 seconds
 

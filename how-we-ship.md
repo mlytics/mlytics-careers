@@ -112,6 +112,7 @@ Roles we're currently hiring for:
 
 - [Lead AI-Native Full Stack Engineer](./roles/ai-powered-full-stack-engineer.md) — Product team, Taipei
 - [AI Data Engineer](./roles/ai-data-engineer.md) — Data & Innovation team, Taipei
+- [Senior Backend Engineer, Decisive Engine](./roles/senior-backend-engineer-decisive-engine.md) — Product team, Taipei
 - [AI Infrastructure & Reliability Engineer (Staff / Lead)](./roles/ai-infrastructure-reliability-engineer.md) — Product team, Taipei
 - [Senior AI Product Manager, Cortex](./roles/senior-ai-product-manager.md) — Product team, Taipei
 

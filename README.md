@@ -44,7 +44,7 @@ All roles are based in **Taipei**.
 
 - **[Lead AI-Native Full Stack Engineer](./roles/ai-powered-full-stack-engineer.md)**
 - **[AI Data Engineer](./roles/ai-data-engineer.md)**
-- **[Senior Backend Engineer — Decisive Engine](./roles/senior-backend-engineer-decisive-engine.md)**
+- **[Senior Backend Engineer, Decisive Engine](./roles/senior-backend-engineer-decisive-engine.md)**
 - **[AI Infrastructure & Reliability Engineer (Staff / Lead)](./roles/ai-infrastructure-reliability-engineer.md)**
 - **[Senior AI Product Manager, Cortex](./roles/senior-ai-product-manager.md)**
 
