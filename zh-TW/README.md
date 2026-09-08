@@ -48,6 +48,10 @@ Mlytics 從 multi-CDN 起家。那套基礎設施 — <50ms 路由、multi-vendo
 - **[AI Infrastructure & Reliability Engineer (Staff / Lead)](./roles/ai-infrastructure-reliability-engineer.md)**
 - **[Senior AI Product Manager, Cortex](./roles/senior-ai-product-manager.md)**
 
+### 財務 Finance
+
+- **[Accounting Specialist](./roles/accounting-specialist.md)**
+
 ### 人力營運 People Operations
 
 - **[People Operations Specialist](./roles/people-operations-specialist.md)**

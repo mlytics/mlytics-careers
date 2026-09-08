@@ -48,6 +48,10 @@ All roles are based in **Taipei**.
 - **[AI Infrastructure & Reliability Engineer (Staff / Lead)](./roles/ai-infrastructure-reliability-engineer.md)**
 - **[Senior AI Product Manager, Cortex](./roles/senior-ai-product-manager.md)**
 
+### Finance
+
+- **[Accounting Specialist](./roles/accounting-specialist.md)**
+
 ### People Operations
 
 - **[People Operations Specialist](./roles/people-operations-specialist.md)**
