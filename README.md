@@ -52,10 +52,6 @@ All roles are based in **Taipei**.
 
 - **[Accounting Specialist](./roles/accounting-specialist.md)**
 
-### People Operations
-
-- **[People Operations Specialist](./roles/people-operations-specialist.md)**
-
 ---
 
 ## How we ship
